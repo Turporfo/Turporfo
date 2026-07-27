@@ -21,12 +21,12 @@
     <td>
       <a href="https://#gh-light-mode-only">
         <img
-          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Turporfo&hide_border=true&layout=compact&langs_count=6&bg_color=00000000"
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Turporfo&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&t=1"
           height="200" />
       </a>
       <a href="https://#gh-dark-mode-only">
         <img
-          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Turporfo&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark"
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Turporfo&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark&t=1"
           height="200" />
       </a>
     </td>
