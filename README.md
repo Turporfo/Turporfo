@@ -7,11 +7,6 @@
 <table width="100%" align="center">
   <tr>
     <td>
-      <a href="https://#gh-light-mode-only">
-        <img
-          src="https://github-readme-stats-one-bice.vercel.app/api?username=Turporfo&show_icons=true&hide_border=true&bg_color=00000000&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-          height="200" />
-      </a>
       <a href="https://#gh-dark-mode-only">
         <img
           src="https://github-readme-stats-one-bice.vercel.app/api?username=Turporfo&show_icons=true&hide_border=true&bg_color=00000000&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
@@ -19,11 +14,6 @@
       </a>
     </td>
     <td>
-      <a href="https://#gh-light-mode-only">
-        <img
-          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Turporfo&hide_border=true&layout=compact&langs_count=6&bg_color=00000000"
-          height="200" />
-      </a>
       <a href="https://#gh-dark-mode-only">
         <img
           src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Turporfo&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&theme=dark"
